@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kitanne
+- 👋 Hi, I’m @Adebusayo
 - 👀 I’m interested in ...Backend Development and Fullstack in the long run
 - 🌱 I’m currently learning ...Data Science & Analytics
 - 💞️ I’m looking to collaborate on ...Beginner friendly projects on Data Analytics
